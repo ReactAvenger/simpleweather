@@ -1,0 +1,4 @@
+export const UPDATE_SEARCH_VALUE = 'UPDATE_SEARCH_VALUE'
+export const SET_WEATHER = 'SET_WEATHER'
+export const SET_LOADING = 'SET_LOADING'
+export const SET_ERROR = 'SET_ERROR'
